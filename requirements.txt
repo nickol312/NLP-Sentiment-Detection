@@ -1,6 +1,6 @@
 absl-py==1.0.0
 anyio==3.6.1
-argon2-cffi @ file:///home/conda/feedstock_root/build_artifacts/argon2-cffi_1640817743617/work
+#argon2-cffi @ file:///home/conda/feedstock_root/build_artifacts/argon2-cffi_1640817743617/work
 argon2-cffi-bindings @ file:///D:/bld/argon2-cffi-bindings_1649500527917/work
 asttokens @ file:///home/conda/feedstock_root/build_artifacts/asttokens_1618968359944/work
 astunparse==1.6.3
@@ -111,4 +111,4 @@ websockets==10.3
 Werkzeug==2.1.2
 widgetsnbextension==3.6.0
 wrapt==1.14.1
-#zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1649012893348/work
+zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1649012893348/work
